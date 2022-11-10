@@ -1,2 +1,2 @@
 # Cyber-Nett.github.io
-A site.
+Just a site.
