@@ -1,0 +1,131 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(17, 17, 17);
+    margin: 0;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.header{
+    padding-bottom: 5px;
+    background-color: transparent;
+    filter: blur(70%);
+    background: blur(70%);
+    display: block;
+    overflow: hidden;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    font-weight: 100;
+}
+
+.a{
+    display: block;
+    overflow: hidden;
+    background-color: transparent;
+    width: auto;
+    float: right;
+    color: white;
+    text-align: center;
+    margin-right: 9px;
+    padding: 20px;
+}
+
+.a1{
+    display: block;
+    overflow: hidden;
+    background-color: #007aff ;
+    width: auto;
+    float: right;
+    color: white;
+    text-align: center;
+    margin-right: 9px;
+    padding: 20px;
+}
+
+.header :hover{
+    background-color: #007aff;
+    padding:20px;
+}
+
+.Intro{
+    display: block;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+    height: 1000px;
+}
+
+.Itext{
+    text-align: center;
+    padding: 0%;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding: 150px;
+    float: left;
+}
+
+.Itext1{
+    text-align: center;
+    padding: 0%;
+    margin-top: o0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0px;
+    float: left;
+    margin-top: 67mm;
+    margin-left: -200px;
+}
+
+.img{
+    width: 50%;
+    height: 50%;
+    padding: 0px;
+    margin: 0px;
+    float: right;
+    margin-top: 0%;
+    
+}
+ .begin{
+    text-align: center;
+ }
+
+ .rigt{
+    width: 30%;
+    height: 30%;
+ }
+
+.block{
+    display: block;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+    padding-top: 500px;
+}
+
+.immg{
+    width: 30%;
+    height: 30%;
+    text-align: center;
+    padding: 50px;
+    margin: top 50mm;
+}
+
+.gellery{
+    text-align: center;
+}
+
+.bleck{
+    color: white;
+    text-align: center;
+}
+
+.immgg{
+    width: 50%;
+    height: 50%;
+}
+
+.div{
+    text-align: center;
+    
+}
