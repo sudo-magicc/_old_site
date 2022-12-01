@@ -72,3 +72,39 @@ body{
     text-align: left;
     float: right;
 }
+
+.tt{
+    color: white;
+    margin-bottom: 40px;
+}
+
+.linky{
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 300px;
+}
+
+.butikk{
+    background-color: #007aff;
+    color: white;
+    padding: 20px;
+    border-radius: 19px;
+    margin-bottom: 30px;
+}
+
+.butikk:hover{
+    color: #ffcc00;
+    padding: 30px;
+}
+
+.lastdiv{
+    display: block;
+    overflow: hidden;
+    background-color: rgb(43, 43, 43);
+}
+
+.lastt{
+    color: aliceblue;
+    float: right;
+    padding-right: 20px;
+}
