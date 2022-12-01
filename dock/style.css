@@ -46,7 +46,8 @@ body{
 .ee{
     color:white;
     float:right;
-    padding-right: 580px
+    padding-right: 580px;
+    margin-top: -400px;
 }
 
 .eee{
@@ -59,4 +60,5 @@ body{
     float: right;
     font-size: larger;
     margin-right: 820px;
+    margin-top: -500px;
 }
