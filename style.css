@@ -2,7 +2,6 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(17, 17, 17);
     margin: 0;
-    background-image: url('');
 }
 
 .header{
@@ -15,6 +14,7 @@ body{
     padding: 10px;
     font-weight: 100;
     position: fixed;
+
 }
 
 .a{
@@ -27,6 +27,8 @@ body{
     text-align: center;
     margin-right: 9px;
     padding: 20px;
+    float: right;
+
 }
 
 .header :hover{
@@ -108,4 +110,16 @@ body{
     color: aliceblue;
     float: right;
     padding-right: 20px;
+}
+
+.model{
+    margin-left: 650px;
+}
+
+.model::before{
+    margin-left: 650px;
+}
+
+.model:hover{
+    margin-left: 650px;
 }
