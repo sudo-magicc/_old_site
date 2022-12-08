@@ -129,3 +129,15 @@ body{
     text-align: center;
     
 }
+
+.model{
+    margin-left: 650px;
+}
+
+.model::before{
+    margin-left: 650px;
+}
+
+.model:hover{
+    margin-left: 650px;
+}
