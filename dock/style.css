@@ -63,3 +63,14 @@ body{
     margin-top: -500px;
 }
 
+.model{
+    margin-left: 650px;
+}
+
+.model::before{
+    margin-left: 650px;
+}
+
+.model:hover{
+    margin-left: 650px;
+}
